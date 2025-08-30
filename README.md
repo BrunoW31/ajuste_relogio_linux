@@ -1,0 +1,1 @@
+# ajuste_relogio_linux
