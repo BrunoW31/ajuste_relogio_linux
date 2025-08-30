@@ -37,7 +37,7 @@ int main(){
 	scanf(" %d %c %d  %c %d", &h1, &doispontos, &h2, &doispontos, &h3);
 	
 	if(getuid() != 0){
-	printf("Necessário  estar como usuário root\n");
+	printf("Necessário estar logado como usuário root!\n");
 	return (1);	
 	}
 
